@@ -1,0 +1,1138 @@
+{
+  "categories": [
+    {
+      "id": "ensaladas",
+      "name": "Ensaladas",
+      "eyebrow": "FRESCO Y DE TEMPORADA"
+    },
+    {
+      "id": "frias",
+      "name": "Tapas frías",
+      "eyebrow": "PARA ABRIR BOCA"
+    },
+    {
+      "id": "tapas",
+      "name": "Tapas",
+      "eyebrow": "CLÁSICOS DE LA CASA"
+    },
+    {
+      "id": "especialidades",
+      "name": "Especialidades",
+      "eyebrow": "PLATOS CON CARÁCTER"
+    },
+    {
+      "id": "pescado",
+      "name": "Pescado frito",
+      "eyebrow": "SABOR SEVILLANO"
+    },
+    {
+      "id": "sugerencias",
+      "name": "Sugerencias",
+      "eyebrow": "UNA VUELTA MÁS"
+    },
+    {
+      "id": "huevos",
+      "name": "Huevos",
+      "eyebrow": "AL CENTRO"
+    },
+    {
+      "id": "carne",
+      "name": "Carne",
+      "eyebrow": "DE LA TIERRA"
+    },
+    {
+      "id": "chacinas",
+      "name": "Chacinas",
+      "eyebrow": "CORTE Y PRODUCTO"
+    },
+    {
+      "id": "postres",
+      "name": "Postres",
+      "eyebrow": "EL ÚLTIMO CAPÍTULO"
+    },
+    {
+      "id": "bebidas",
+      "name": "Bebidas",
+      "eyebrow": "ALGO PARA BEBER"
+    },
+    {
+      "id": "vinos",
+      "name": "Vinos",
+      "eyebrow": "DE LA BODEGA"
+    }
+  ],
+  "dishes": [
+    {
+      "category": "ensaladas",
+      "name": "Tomate aliñado con ajito y melva",
+      "prices": {
+        "tapa": null,
+        "media": null,
+        "plato": 8.5
+      },
+      "vegetarian": false,
+      "num": 1,
+      "desc": {
+        "en": "Seasoned Tomato with garlic and frigate tuna",
+        "it": "Pomodoro condito con aglio e tombarello",
+        "fr": "Tomate assaisonnée à l’ail et persil et bonitou",
+        "de": "Angemachte Tomaten mit Knoblauch und Makrelen"
+      },
+      "allergens": null
+    },
+    {
+      "category": "ensaladas",
+      "name": "Ensalada mixta",
+      "prices": {
+        "tapa": null,
+        "media": null,
+        "plato": 8.5
+      },
+      "vegetarian": false,
+      "num": 2,
+      "desc": {
+        "en": "Mixed Salad (lettuce, tomato, onion, corn and tuna)",
+        "it": "Mista (lattuga, pomodoro, cipolla, mais e tonno)",
+        "fr": "Mixte (laitue, tomate, oignon, maïs et thon)",
+        "de": "Gemischter Salat (Tomaten, Zwiebeln, Mais und Thunfisch)",
+        "es": "Lechuga, maíz, tomate, cebolla y atún"
+      },
+      "allergens": null
+    },
+    {
+      "category": "ensaladas",
+      "name": "Ensalada Pelayo",
+      "prices": {
+        "tapa": null,
+        "media": null,
+        "plato": 10.5
+      },
+      "vegetarian": false,
+      "num": 3,
+      "desc": {
+        "en": "Pelayo Salad (lettuce, walnuts, goat cheese, tomatoes and honey sauce)",
+        "it": "Pelayo (lattughe varie, noci, formaggio caprino, pomodoro con salsa vinaigrette al miele)",
+        "fr": "Pelayo (mélange de laitues, noix, fromage de chèvre, tomate et vinaigrette au miel)",
+        "de": "Pelayo (Verschiedene Salatsorten, Walnüsse, Ziegenkäse, Tomaten und Honig-Vinaigrette)",
+        "es": "Lechuga variada, nueces, queso de cabra, tomate y vinagreta de miel"
+      },
+      "allergens": null
+    },
+    {
+      "category": "frias",
+      "name": "Ensaladilla de la casa",
+      "prices": {
+        "tapa": 4.6,
+        "media": 9.2,
+        "plato": 13.5
+      },
+      "vegetarian": false,
+      "num": 4,
+      "desc": {
+        "en": "Russian salad (potato salad)",
+        "it": "Insalata russa",
+        "fr": "Salade russe",
+        "de": "Kartoffelsalat"
+      },
+      "allergens": null
+    },
+    {
+      "category": "frias",
+      "name": "Salmorejo cordobés (atún, huevo y jamón)",
+      "prices": {
+        "tapa": 4.6,
+        "media": null,
+        "plato": null
+      },
+      "vegetarian": false,
+      "num": 5,
+      "desc": {
+        "en": "‘Salmorejo’ Cold tomato soup (egg, tuna and cured ham)",
+        "it": "Salmorejo cordovese (zuppa fredda a base di pomodoro e pane con uova, tonno e prosciutto)",
+        "fr": "‘Salmorejo’ (crème de tomates avec oeuf dur, thon et jambon)",
+        "de": "Salmorejo (Gemüsecreme) mit Ei, Thunfisch und Schinken"
+      },
+      "allergens": null
+    },
+    {
+      "category": "frias",
+      "name": "Tartar de salmón",
+      "prices": {
+        "tapa": null,
+        "media": null,
+        "plato": 13.5
+      },
+      "vegetarian": false,
+      "num": 6,
+      "desc": {
+        "en": "Salmon tartar",
+        "it": "Tartar di salmone",
+        "fr": "Tartare de saumon",
+        "de": "Lachstartar"
+      },
+      "allergens": null
+    },
+    {
+      "category": "frias",
+      "name": "Anchoas del Cantábrico en pipirrana de aguacate",
+      "prices": {
+        "tapa": 4.6,
+        "media": 9.2,
+        "plato": 13.5
+      },
+      "vegetarian": false,
+      "num": 7,
+      "desc": {
+        "en": "Cantabrian anchovies with mashed avocado",
+        "it": "Acciughe del Cantabrico con avocado",
+        "fr": "Anchois de Cantabrie à l’avocat",
+        "de": "Kantabrische Sardellen mit Avocado"
+      },
+      "allergens": null
+    },
+    {
+      "category": "tapas",
+      "name": "Flamenquín",
+      "prices": {
+        "tapa": 5,
+        "media": 10,
+        "plato": 15
+      },
+      "vegetarian": false,
+      "num": 8,
+      "desc": {
+        "en": "Flamenquín (breaded meat and ham roll)",
+        "it": "Flamenquín (involtino impanato di filetto di maiale e prosciutto)",
+        "fr": "Flamenquín (roulé pané de filet de porc et jambon serrano)",
+        "de": "‘Flamenquín’(frittierte Schinken-Schweinefleisch-Röllchen)"
+      },
+      "allergens": null
+    },
+    {
+      "category": "tapas",
+      "name": "Camembert frito con crema de membrillo",
+      "prices": {
+        "tapa": 4.6,
+        "media": 9.2,
+        "plato": 13.5
+      },
+      "vegetarian": true,
+      "num": 9,
+      "desc": {
+        "en": "Fried camembert with quince cream",
+        "it": "Camembert fritto con crema di mele cotogne",
+        "fr": "Camembert frit à la crème de coing",
+        "de": "Gebratener Camembert mit Quittencreme"
+      },
+      "allergens": null
+    },
+    {
+      "category": "tapas",
+      "name": "Croquetas de jamón",
+      "prices": {
+        "tapa": null,
+        "media": 9.2,
+        "plato": 13.5
+      },
+      "vegetarian": false,
+      "num": 10,
+      "desc": {
+        "en": "Cured ham croquettes",
+        "it": "Crocchette al prosciutto",
+        "fr": "Croquettes au jambon serrano",
+        "de": "Schinken-Kroketten"
+      },
+      "allergens": null
+    },
+    {
+      "category": "tapas",
+      "name": "Croquetas de cola de toro",
+      "prices": {
+        "tapa": 4.6,
+        "media": 9.2,
+        "plato": 13.5
+      },
+      "vegetarian": false,
+      "num": 11,
+      "desc": {
+        "en": "Oxtail croquettes",
+        "it": "Crocchette alla coda di toro",
+        "fr": "Croquettes au queue de taureau",
+        "de": "Stierschwanz-Kroketten"
+      },
+      "allergens": null
+    },
+    {
+      "category": "tapas",
+      "name": "Surtido de croquetas",
+      "prices": {
+        "tapa": null,
+        "media": null,
+        "plato": 13.5
+      },
+      "vegetarian": false,
+      "num": 12,
+      "desc": {
+        "en": "Assorted croquettes",
+        "it": "Assortimento di crocchette",
+        "fr": "Assortiment de croquettes",
+        "de": "Auswahl an Kroketten"
+      },
+      "allergens": null
+    },
+    {
+      "category": "tapas",
+      "name": "Lagrimitas de pollo fritas con dos salsas",
+      "prices": {
+        "tapa": null,
+        "media": 9.2,
+        "plato": 13.5
+      },
+      "vegetarian": false,
+      "num": 13,
+      "desc": {
+        "en": "Small pieces of fried chicken with two sauces",
+        "it": "Bocconcini di pollo fritti con due salse",
+        "fr": "‘Lagrimitas’ (Petits morceaux de poulet marinés et frits aux deux sauces)",
+        "de": "Frittierte Hühnchenhäppchen mit zweierlei Soße"
+      },
+      "allergens": null
+    },
+    {
+      "category": "tapas",
+      "name": "Pechuga de pollo a la plancha",
+      "prices": {
+        "tapa": 4.6,
+        "media": 9.2,
+        "plato": 13.5
+      },
+      "vegetarian": false,
+      "num": 14,
+      "desc": {
+        "en": "Grilled chicken breast",
+        "it": "Petto di pollo alla griglia",
+        "fr": "Poitrine de poulet grillée",
+        "de": "Gegrillte Hähnchenbrust"
+      },
+      "allergens": null
+    },
+    {
+      "category": "tapas",
+      "name": "Solomillo de cerdo a la plancha al whisky",
+      "prices": {
+        "tapa": 4.6,
+        "media": 9.2,
+        "plato": 13.5
+      },
+      "vegetarian": false,
+      "num": 15,
+      "desc": {
+        "en": "Grilled pork sirloin with whisky sauce",
+        "it": "Filetto di maiale grigliato al whisky",
+        "fr": "Filet mignon de porc grillé au whisky",
+        "de": "Gebratenes Schweinefilet in Whisky-Soße"
+      },
+      "allergens": null
+    },
+    {
+      "category": "tapas",
+      "name": "Pisto de la casa",
+      "prices": {
+        "tapa": 4.6,
+        "media": 9.2,
+        "plato": 13.5
+      },
+      "vegetarian": true,
+      "num": 16,
+      "desc": {
+        "en": "Ratatouille",
+        "it": "Pisto della casa (verdure stufate)",
+        "fr": "Ratatouille maison",
+        "de": "Pisto (ähnlich Ratatouille) nach Art des Hauses"
+      },
+      "allergens": null
+    },
+    {
+      "category": "tapas",
+      "name": "Queso de cabra horneado con mermelada de pimiento",
+      "prices": {
+        "tapa": 4.6,
+        "media": 9.2,
+        "plato": 13.5
+      },
+      "vegetarian": true,
+      "num": 17,
+      "desc": {
+        "en": "Baked goat cheese with pepper jam",
+        "it": "Formaggio caprino cotto al forno con marmellata di peperoni",
+        "fr": "Fromage de chèvre au four à la confiture de poivrons doux",
+        "de": "Gebackener Ziegenkäse mit Paprikamarmelade"
+      },
+      "allergens": null
+    },
+    {
+      "category": "tapas",
+      "name": "Falafel con hummus",
+      "prices": {
+        "tapa": 4.6,
+        "media": 9.2,
+        "plato": 13.5
+      },
+      "vegetarian": true,
+      "num": 18,
+      "desc": {
+        "en": "Falafel and hummus",
+        "it": "Falafel e hummus",
+        "fr": "Falafel et hummus",
+        "de": "Falafel und Hummus"
+      },
+      "allergens": null
+    },
+    {
+      "category": "tapas",
+      "name": "Espinacas con garbanzos",
+      "prices": {
+        "tapa": 4.6,
+        "media": 9.2,
+        "plato": 13.5
+      },
+      "vegetarian": true,
+      "num": 19,
+      "desc": {
+        "en": "Spinach with Chickpeas",
+        "it": "Spinaci e ceci",
+        "fr": "Épinards avec pois-chiche",
+        "de": "Spinat mit Kichererbsen"
+      },
+      "allergens": null
+    },
+    {
+      "category": "especialidades",
+      "name": "Alcachofas a la plancha, gulas y jamón",
+      "prices": {
+        "tapa": null,
+        "media": 9.2,
+        "plato": 13.5
+      },
+      "vegetarian": false,
+      "num": 20,
+      "desc": {
+        "en": "Grilled artichokes with eel and cured ham",
+        "it": "Carciofi alla griglia con gulas e dadini di prosciutto",
+        "fr": "Artichauts grillés accompagné de gulas (succédané de civelles) et dés de jambon Serrano",
+        "de": "Gebratene Artischocken mit Gulas und Schinkenwürfeln"
+      },
+      "allergens": null
+    },
+    {
+      "category": "especialidades",
+      "name": "Carrillera en salsa",
+      "prices": {
+        "tapa": null,
+        "media": 9.5,
+        "plato": 14
+      },
+      "vegetarian": false,
+      "num": 21,
+      "desc": {
+        "en": "Braised pork cheeks with a traditional sauce",
+        "it": "Carrillera in salsa (dalla guancia del maiale)",
+        "fr": "Joue de porc en sauce",
+        "de": "Schweinebäckchen in Soße"
+      },
+      "allergens": null
+    },
+    {
+      "category": "especialidades",
+      "name": "Cola de toro en salsa",
+      "prices": {
+        "tapa": null,
+        "media": null,
+        "plato": 15
+      },
+      "vegetarian": false,
+      "num": 22,
+      "desc": {
+        "en": "Oxtail with a traditional sauce",
+        "it": "Coda di toro",
+        "fr": "Queue de taureau",
+        "de": "Ochsenschwanz"
+      },
+      "allergens": null
+    },
+    {
+      "category": "especialidades",
+      "name": "Hamburguesita de ternera con queso de cabra y cebolla caramelizada (unidad)",
+      "prices": {
+        "tapa": 6.5,
+        "media": null,
+        "plato": null
+      },
+      "vegetarian": false,
+      "num": 23,
+      "desc": {
+        "en": "Small beef Burger with goat cheese and caramelized onion (unit)",
+        "it": "Mini hamburger di vitello con formaggio di capra e cipolle caramellate (unità)",
+        "fr": "Petit hamburger de bœuf au fromage de chèvre et oignons caramélisés (unité)",
+        "de": "Kleiner Rindfleischburger mit Ziegenkäse und karamellisierten Zwiebeln"
+      },
+      "allergens": null
+    },
+    {
+      "category": "pescado",
+      "name": "Boquerones",
+      "prices": {
+        "tapa": 4.6,
+        "media": 9.2,
+        "plato": 13.5
+      },
+      "vegetarian": false,
+      "num": 24,
+      "desc": {
+        "en": "Fried anchovies",
+        "it": "Acciughe fritte",
+        "fr": "Friture d’anchois",
+        "de": "Frittierte Sardellen"
+      },
+      "allergens": null
+    },
+    {
+      "category": "pescado",
+      "name": "Chocos",
+      "prices": {
+        "tapa": null,
+        "media": 9.5,
+        "plato": 14
+      },
+      "vegetarian": false,
+      "num": 25,
+      "desc": {
+        "en": "Fried cuttlefish",
+        "it": "Calamari fritti",
+        "fr": "Friture de seiche en bâtonnets",
+        "de": "Frittierter Tintenfisch"
+      },
+      "allergens": null
+    },
+    {
+      "category": "pescado",
+      "name": "Adobo sevillano",
+      "prices": {
+        "tapa": null,
+        "media": 9.2,
+        "plato": 13.5
+      },
+      "vegetarian": false,
+      "num": 26,
+      "desc": {
+        "en": "Marinated dogfish",
+        "it": "Adobo sivigliano (tocchetti di verdesca marinati e fritti)",
+        "fr": "Marinade de Séville (chien de mer mariné)",
+        "de": "Marinierter Fisch nach Sevilla-Art"
+      },
+      "allergens": null
+    },
+    {
+      "category": "pescado",
+      "name": "Fritura variada",
+      "prices": {
+        "tapa": null,
+        "media": null,
+        "plato": 17.5
+      },
+      "vegetarian": false,
+      "num": 27,
+      "desc": {
+        "en": "Mixed fried fish",
+        "it": "Frittura mista di pesce",
+        "fr": "Friture de poissons assortis",
+        "de": "Gemischter frittierter Fisch"
+      },
+      "allergens": null
+    },
+    {
+      "category": "sugerencias",
+      "name": "Presa con crema de boletus y crujiente de cebolla",
+      "prices": {
+        "tapa": null,
+        "media": 9.2,
+        "plato": 13.5
+      },
+      "vegetarian": false,
+      "num": 28,
+      "desc": {
+        "en": "Pork shoulder fillet with mushroom cream and crispy onion",
+        "it": "Presa con crema di porcini e cipolla croccante (taglio proveniente dal collo del maiale iberico)",
+        "fr": "‘Presa’ de porc à la crème de cèpes et oignon croustillant",
+        "de": "Schulterstück vom Schwein mit Steinpilzcreme und Röstzwiebeln"
+      },
+      "allergens": null
+    },
+    {
+      "category": "sugerencias",
+      "name": "Carrillera estofada con espuma de patata y setas",
+      "prices": {
+        "tapa": null,
+        "media": 9.5,
+        "plato": 14
+      },
+      "vegetarian": false,
+      "num": 29,
+      "desc": {
+        "en": "Pork cheeks with potato foam and mushrooms",
+        "it": "Carrillera (guancia) con funghi e schiuma di patate",
+        "fr": "Joue de porc avec champignons et mousse de pomme de terre",
+        "de": "Schweinebäckchen mit Kartoffelschaum und Pilzen"
+      },
+      "allergens": null
+    },
+    {
+      "category": "sugerencias",
+      "name": "Pulpo asado con patatas al aroma de albahaca",
+      "prices": {
+        "tapa": null,
+        "media": null,
+        "plato": 18
+      },
+      "vegetarian": false,
+      "num": 30,
+      "desc": {
+        "en": "Grilled octopus with basil aroma potatoes",
+        "it": "Polpo arrosto con patate al profumo di basilico",
+        "fr": "Poulpe grillé et pommes de terre à l’arôme de basilic",
+        "de": "Gebratener Oktopus mit Kartoffeln mit Basilikum-Aroma"
+      },
+      "allergens": null
+    },
+    {
+      "category": "sugerencias",
+      "name": "Langostinos al ajillo",
+      "prices": {
+        "tapa": null,
+        "media": null,
+        "plato": 13
+      },
+      "vegetarian": false,
+      "num": 31,
+      "desc": {
+        "en": "Garlic Prawns",
+        "it": "Gamberoni con aglio e prezzemolo",
+        "fr": "Gambas à l’ail",
+        "de": "Riesengarnelen in Knoblauchöl"
+      },
+      "allergens": null
+    },
+    {
+      "category": "sugerencias",
+      "name": "Lomo de salmón con wok de verduritas",
+      "prices": {
+        "tapa": null,
+        "media": null,
+        "plato": 16
+      },
+      "vegetarian": false,
+      "num": 32,
+      "desc": {
+        "en": "Grilled salmon with vegetables wok",
+        "it": "Filetto di salmone e wok de mini verdure",
+        "fr": "Pavé de saumon et wok de légumes",
+        "de": "Gebratenes Lachsfilet und Gemüse Wok"
+      },
+      "allergens": null
+    },
+    {
+      "category": "huevos",
+      "name": "Huevos estrellados con jamón",
+      "prices": {
+        "tapa": null,
+        "media": null,
+        "plato": 13
+      },
+      "vegetarian": false,
+      "num": 33,
+      "desc": {
+        "en": "Fried eggs with cured ham and fries",
+        "it": "Uova fritte con prosciutto crudo e patatine fritte",
+        "fr": "Œufs au plat brisés servis sur des frites et jambon",
+        "de": "Bratkartoffeln mit Spiegeleiern und Schinken"
+      },
+      "allergens": null
+    },
+    {
+      "category": "huevos",
+      "name": "Revuelto de alcachofas, jamón, patata y queso de cabra",
+      "prices": {
+        "tapa": null,
+        "media": null,
+        "plato": 13
+      },
+      "vegetarian": false,
+      "num": 34,
+      "desc": {
+        "en": "Scrambled eggs with artichoke, cured ham, potatoes and goat cheese",
+        "it": "Uova strapazzate con carciofi, prosciutto crudo, patata e formaggio caprino",
+        "fr": "Œufs brouillés aux artichauts, jambon serrano, pommes et fromage de chèvre",
+        "de": "Artischockenpfanne mit Schinken, Kartoffel und Ziegenkäse"
+      },
+      "allergens": null
+    },
+    {
+      "category": "carne",
+      "name": "Entrecot de ternera",
+      "prices": {
+        "tapa": null,
+        "media": null,
+        "plato": 18
+      },
+      "vegetarian": false,
+      "num": 35,
+      "desc": {
+        "en": "Beefsteak",
+        "it": "Entrecôte di vitello",
+        "fr": "Entrecôte de bœuf",
+        "de": "Entrecôt vom Rind"
+      },
+      "allergens": null
+    },
+    {
+      "category": "carne",
+      "name": "Solomillo de ternera",
+      "prices": {
+        "tapa": null,
+        "media": null,
+        "plato": 20
+      },
+      "vegetarian": false,
+      "num": 36,
+      "desc": {
+        "en": "Beef tenderloin",
+        "it": "Filetto di vitello",
+        "fr": "Filet mignon de bœuf",
+        "de": "Rinderfilet"
+      },
+      "allergens": null
+    },
+    {
+      "category": "chacinas",
+      "name": "Queso viejo de oveja",
+      "prices": {
+        "tapa": null,
+        "media": 12,
+        "plato": 17
+      },
+      "vegetarian": true,
+      "priceLabels": {
+        "media": "60 g",
+        "plato": "100 g"
+      },
+      "num": 37,
+      "desc": {
+        "en": "Old cured sheep cheese",
+        "it": "Formaggio di pecora stagionato",
+        "fr": "Fromage vieux au lait de brebis",
+        "de": "Reifer Schafskäse"
+      },
+      "allergens": null
+    },
+    {
+      "category": "chacinas",
+      "name": "Salchichón ibérico de bellota",
+      "prices": {
+        "tapa": null,
+        "media": 12,
+        "plato": 17
+      },
+      "vegetarian": false,
+      "priceLabels": {
+        "media": "60 g",
+        "plato": "100 g"
+      },
+      "num": 38,
+      "desc": {
+        "en": "Iberian pork salami",
+        "it": "Salame iberico",
+        "fr": "Saucisson ibérique",
+        "de": "Hartwurst"
+      },
+      "allergens": null
+    },
+    {
+      "category": "chacinas",
+      "name": "Chorizo ibérico de bellota",
+      "prices": {
+        "tapa": null,
+        "media": 12,
+        "plato": 17
+      },
+      "vegetarian": false,
+      "priceLabels": {
+        "media": "60 g",
+        "plato": "100 g"
+      },
+      "num": 39,
+      "desc": {
+        "en": "Iberian pork chorizo",
+        "it": "Salsiccia iberica",
+        "fr": "Chorizo ibérique",
+        "de": "Chorizo (Paprikawurst)"
+      },
+      "allergens": null
+    },
+    {
+      "category": "chacinas",
+      "name": "Jamón ibérico de bellota",
+      "prices": {
+        "tapa": null,
+        "media": 13.5,
+        "plato": 19.5
+      },
+      "vegetarian": false,
+      "priceLabels": {
+        "media": "60 g",
+        "plato": "100 g"
+      },
+      "num": 40,
+      "desc": {
+        "en": "Iberian pork cured ham",
+        "it": "Prosciutto iberico crudo",
+        "fr": "Jambon ibérique",
+        "de": "Schinken"
+      },
+      "allergens": null
+    },
+    {
+      "category": "chacinas",
+      "name": "Caña de lomo ibérica de bellota",
+      "prices": {
+        "tapa": null,
+        "media": 13.5,
+        "plato": 19.5
+      },
+      "vegetarian": false,
+      "priceLabels": {
+        "media": "60 g",
+        "plato": "100 g"
+      },
+      "num": 41,
+      "desc": {
+        "en": "Iberian pork cured loin",
+        "it": "Caña de lomo (coppa iberica)",
+        "fr": "Caña de lomo ibérique (longe filet de porc séché)",
+        "de": "Lendenschinken"
+      },
+      "allergens": null
+    },
+    {
+      "category": "chacinas",
+      "name": "Variado de la Sierra",
+      "prices": {
+        "tapa": null,
+        "media": null,
+        "plato": 19.5
+      },
+      "vegetarian": false,
+      "priceLabels": {
+        "media": "60 g",
+        "plato": "100 g"
+      },
+      "num": 42,
+      "desc": {
+        "en": "Assorted Iberian pork sausages",
+        "it": "Selezione di salumi",
+        "fr": "Assortiment de la Sierra (montagnard)",
+        "de": "Gemischte Platte mit Produkten aus den Bergen"
+      },
+      "allergens": null
+    },
+    {
+      "category": "postres",
+      "name": "Tocino de cielo",
+      "prices": {
+        "tapa": 3.8,
+        "media": null,
+        "plato": null
+      },
+      "vegetarian": true,
+      "num": 43,
+      "desc": {
+        "en": "‘Tocino de cielo’ Pudding made with egg yolk and syrup",
+        "it": "Tocino de cielo (dolce a base di uova)",
+        "fr": "‘Tocino de cielo (flan de jaune d´œuf sucré)",
+        "de": "‘Tocino de cielo’ (Süßer Eierpudding)"
+      },
+      "allergens": null
+    },
+    {
+      "category": "postres",
+      "name": "Vasitos de tartas (consultar variedades)",
+      "prices": {
+        "tapa": 5.8,
+        "media": null,
+        "plato": null
+      },
+      "vegetarian": true,
+      "num": 44,
+      "desc": {
+        "en": "Cake: Pistachio, 3chocolates, Ferrero Rocher, Cheesecake and berries, Cookies, Meringue milk and lemon…",
+        "it": "Torta: Pistacchio, 3Cioccolati, Ferrero Rocher, Cheesecake al lampone, Biscotti, Meringa al latte e limone…",
+        "fr": "Gâteau: Pistache, 3Chocolats, Ferrero Rocher, Cheesecake aux framboise, Biscuit, Lait meringué et citron…",
+        "de": "Kuchen: Pistazie, 3-Schokoladen, Ferrero Rocher, Himbeer Käsesahne, Keks, Baisermilch und Zitrone…",
+        "es": "Pistacho, 3 chocolates, Ferrero Rocher, queso y frambuesa, galleta, leche merengada y limón…"
+      },
+      "allergens": null
+    },
+    {
+      "category": "bebidas",
+      "name": "Sangría de tinto",
+      "prices": {
+        "tapa": 3.6,
+        "media": null,
+        "plato": 13.5
+      },
+      "vegetarian": true,
+      "priceLabels": {
+        "tapa": "Copa",
+        "plato": "Jarra"
+      },
+      "num": 46,
+      "desc": {
+        "en": "Sangría",
+        "it": "Sangría",
+        "fr": "Sangría",
+        "de": "Sangría"
+      },
+      "allergens": null
+    },
+    {
+      "category": "bebidas",
+      "name": "Gazpacho",
+      "prices": {
+        "tapa": 3.8,
+        "media": null,
+        "plato": 13.5
+      },
+      "vegetarian": true,
+      "priceLabels": {
+        "tapa": "Copa",
+        "plato": "Jarra"
+      },
+      "num": 47,
+      "desc": {
+        "en": "Gazpacho (cold vegetables soup)",
+        "it": "Gazpacho (zuppa fredda a base di verdure)",
+        "fr": "Gaspacho",
+        "de": "Gazpacho (kalte Gemüsesuppe)"
+      },
+      "allergens": null
+    },
+    {
+      "category": "bebidas",
+      "name": "Cerveza",
+      "prices": {
+        "tapa": 2.1,
+        "media": null,
+        "plato": null
+      },
+      "vegetarian": true,
+      "desc": {
+        "en": "Beer",
+        "it": "Birra",
+        "fr": "Bière",
+        "de": "Bier"
+      },
+      "allergens": null
+    },
+    {
+      "category": "bebidas",
+      "name": "Agua mineral 33 cl",
+      "prices": {
+        "tapa": 2,
+        "media": null,
+        "plato": null
+      },
+      "vegetarian": true,
+      "desc": {
+        "en": "Mineral water 33 cl",
+        "it": "Acqua minerale 33 cl",
+        "fr": "Eau minérale 33 cl",
+        "de": "Mineralwasser 33 cl"
+      },
+      "allergens": null
+    },
+    {
+      "category": "vinos",
+      "name": "Rioja de la casa",
+      "prices": {
+        "tapa": 4,
+        "media": null,
+        "plato": 18
+      },
+      "vegetarian": true,
+      "priceLabels": {
+        "tapa": "Copa",
+        "plato": "Botella"
+      },
+      "desc": {
+        "en": "House Rioja (red)",
+        "it": "Rioja della casa (rosso)",
+        "fr": "Rioja de la maison (rouge)",
+        "de": "Hauswein Rioja (rot)"
+      },
+      "allergens": null
+    },
+    {
+      "category": "vinos",
+      "name": "Ribera de la casa",
+      "prices": {
+        "tapa": 4,
+        "media": null,
+        "plato": 18
+      },
+      "vegetarian": true,
+      "priceLabels": {
+        "tapa": "Copa",
+        "plato": "Botella"
+      },
+      "desc": {
+        "en": "House Ribera del Duero (red)",
+        "it": "Ribera del Duero della casa (rosso)",
+        "fr": "Ribera del Duero de la maison (rouge)",
+        "de": "Hauswein Ribera del Duero (rot)"
+      },
+      "allergens": null
+    },
+    {
+      "category": "vinos",
+      "name": "Blanco de la casa — Rueda",
+      "prices": {
+        "tapa": 3.8,
+        "media": null,
+        "plato": 16
+      },
+      "vegetarian": true,
+      "priceLabels": {
+        "tapa": "Copa",
+        "plato": "Botella"
+      },
+      "desc": {
+        "en": "House white wine, Rueda",
+        "it": "Bianco della casa, Rueda",
+        "fr": "Vin blanc de la maison, Rueda",
+        "de": "Weißer Hauswein, Rueda"
+      },
+      "allergens": null
+    }
+  ],
+  "wines": [
+    {
+      "name": "Rioja de la Casa",
+      "region": "Rioja",
+      "type": "Tintos",
+      "grape": "No especificada",
+      "glass": "4,00 €",
+      "bottle": "18,00 €"
+    },
+    {
+      "name": "Ramón Bilbao Crianza",
+      "region": "Rioja",
+      "type": "Tintos",
+      "grape": "Tempranillo",
+      "glass": "4,20 €",
+      "bottle": "20,00 €"
+    },
+    {
+      "name": "Muga Crianza",
+      "region": "Rioja",
+      "type": "Tintos",
+      "grape": "Tempranillo, Garnacha, Graciano",
+      "glass": null,
+      "bottle": "28,00 €"
+    },
+    {
+      "name": "Ribera de la Casa",
+      "region": "Ribera del Duero",
+      "type": "Tintos",
+      "grape": "No especificada",
+      "glass": "4,00 €",
+      "bottle": "18,00 €"
+    },
+    {
+      "name": "Protos Crianza",
+      "region": "Ribera del Duero",
+      "type": "Tintos",
+      "grape": "Tempranillo",
+      "glass": null,
+      "bottle": "26,00 €"
+    },
+    {
+      "name": "Cortijo de Jara",
+      "region": "Cádiz",
+      "type": "Tintos",
+      "grape": "Tempranillo, Merlot y Syrah",
+      "glass": "4,00 €",
+      "bottle": "18,00 €"
+    },
+    {
+      "name": "De la Casa — Rueda",
+      "region": "Rueda",
+      "type": "Blancos",
+      "grape": "Verdejo",
+      "glass": "3,80 €",
+      "bottle": "16,00 €"
+    },
+    {
+      "name": "Albariño de la Casa",
+      "region": "Rías Baixas",
+      "type": "Blancos",
+      "grape": "Albariño",
+      "glass": "4,20 €",
+      "bottle": "21,00 €"
+    },
+    {
+      "name": "Viña Costeira",
+      "region": "Ribeiro",
+      "type": "Blancos",
+      "grape": "Albariño, Torrontés, Treixadura",
+      "glass": "4,00 €",
+      "bottle": "19,00 €"
+    },
+    {
+      "name": "Tío Pepe",
+      "region": "Jerez",
+      "type": "Generosos",
+      "grape": "Fino · Sherry",
+      "glass": "3,40 €",
+      "bottle": "17,00 €"
+    },
+    {
+      "name": "Manzanilla La Gitana",
+      "region": "Sanlúcar",
+      "type": "Generosos",
+      "grape": "Manzanilla",
+      "glass": "3,30 €",
+      "bottle": "16,00 €"
+    },
+    {
+      "name": "Cava Brut Nature",
+      "region": "Cava",
+      "type": "Cava y champagne",
+      "grape": "No especificada",
+      "glass": null,
+      "bottle": "19,00 €"
+    },
+    {
+      "name": "Moët & Chandon",
+      "region": "Épernay",
+      "type": "Cava y champagne",
+      "grape": "Pinot Noir, Chardonnay, Pinot Meunier",
+      "glass": null,
+      "bottle": "65,00 €"
+    }
+  ],
+  "notes": {
+    "vat": "10% IVA incluido según carta pública",
+    "allergens": "Consulta alérgenos con el personal antes de pedir.",
+    "vegetarian": "Etiqueta vegetariana orientativa; confirma ingredientes con el personal.",
+    "source": "Carta pública: https://www.pelayobar.com/carta/ (descripciones EN/IT/FR/DE tomadas de las versiones de la carta publicadas en esa página). Uso interno de maqueta."
+  }
+}
